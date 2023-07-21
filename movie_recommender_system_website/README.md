@@ -1,6 +1,6 @@
-#Movie Recommender System
+Movie Recommender System
 
-##An advanced content-based movie recommender system employing cosine similarity with a seamless user interface powered by Streamlit.
+An advanced content-based movie recommender system employing cosine similarity with a seamless user interface powered by Streamlit.
 
 Introduction:
 The content-based movie recommender system is designed to offer personalized movie recommendations to users based on their preferences and the content of the movies they have enjoyed in the past. The system utilizes cosine similarity to measure the similarity between movies, enabling it to suggest movies that share similar attributes.
